@@ -17,11 +17,11 @@ const PersonalTrainer = () => {
         </motion.h1>
 
         <div className="max-w-6xl w-full text-center text-gray-900">
-          <p className="text-lg mb-8">
-            At <span className="font-bold text-[#5d0000]">A Builder Hut Box Fitness Gym</span> in Mahestala, our personal trainers are dedicated to guiding you toward fitness success. With a blend of expertise, experience, and passion, they help members achieve their goals—whether you’re a beginner or a seasoned athlete.
+  <p className="text-lg mb-8">
+            At <span className="font-bold text-[#5d0000]">THE PANTHER GYM</span> in Mahestala, our personal trainers are dedicated to guiding you toward fitness success. With a blend of expertise, experience, and passion, they help members achieve their goals—whether you’re a beginner or a seasoned athlete.
           </p>
           <p className="text-lg mb-12">
-            Our trainers design personalized workout plans, provide detailed exercise guidance, and keep you motivated throughout your journey. At A Builder Hut Box Fitness Gym, our trainers are more than just instructors—they are your partners in achieving lasting wellness.
+            Our trainers design personalized workout plans, provide detailed exercise guidance, and keep you motivated throughout your journey. At THE PANTHER GYM, our trainers are more than just instructors—they are your partners in achieving lasting wellness.
           </p>
         </div>
 

@@ -10,12 +10,12 @@ const TermsConditions = () => {
         <div className=" min-h-screen p-6">
         <PageHeader title="Terms & Conditions" path="terms-conditions" name="Terms & Conditions"/>
       <div className="max-w-4xl mx-auto bg-white shadow-lg rounded-lg p-6">
-        <h1 className="text-3xl font-bold mb-4">Terms and Conditions for A Builder Hut Box Gym</h1>
-        <p className="text-gray-700">Effective Date: 25/02/2025</p>
+        <h1 className="text-3xl font-bold mb-4">Terms and Conditions for THE PANTHER GYM</h1>
+        <p className="text-gray-700">Effective Date: 13/04/2025</p>
         
         <section className="mt-4">
           <h2 className="text-xl font-semibold">1. Introduction</h2>
-          <p className="text-gray-700">Welcome to A Builder Hut Box Gym. By accessing or using our services, you agree to comply with and be bound by these Terms and Conditions.</p>
+          <p className="text-gray-700">Welcome to THE PANTHER GYM. By accessing or using our services, you agree to comply with and be bound by these Terms and Conditions.</p>
         </section>
         
         <section className="mt-4">
@@ -30,7 +30,7 @@ const TermsConditions = () => {
         
         <section className="mt-4">
           <h2 className="text-xl font-semibold">4. Liability and Waiver</h2>
-          <p className="text-gray-700">A Builder Hut Box Gym is not responsible for injuries, lost items, or accidents that occur within the premises.</p>
+          <p className="text-gray-700">THE PANTHER GYM is not responsible for injuries, lost items, or accidents that occur within the premises.</p>
         </section>
         
         <section className="mt-4">
@@ -41,10 +41,10 @@ const TermsConditions = () => {
         <section className="mt-4">
           <h2 className="text-xl font-semibold">6. Contact Us</h2>
           <p className="text-gray-700">For any questions, please contact us at:</p>
-          <p className="text-gray-700 font-semibold">A Builder Hut Box Gym</p>
-          <p className="text-gray-700">budge budge trunk road, Kolkata, India, West Bengal</p>
-          <p className="text-gray-700">Email: <strong>abuilderhut22@gmail.com</strong></p>
-          <p className="text-gray-700">Phone: <strong> 082769 03867</strong></p>
+          <p className="text-gray-700 font-semibold">THE PANTHER GYM</p>
+          <p className="text-gray-700">Society Chowk, Rangia, India, Assam</p>
+          <p className="text-gray-700">Email: <strong>biswakk365@gmail.com</strong></p>
+          <p className="text-gray-700">Phone: <strong> 070021 19989</strong></p>
         </section>
         <Link to="/" className="text-primary-500 underline mt-4 inline-block">
           Back to Home

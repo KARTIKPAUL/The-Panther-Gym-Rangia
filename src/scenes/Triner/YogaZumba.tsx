@@ -18,7 +18,7 @@ const YogaAndZumba = () => {
 
         <div className="max-w-6xl w-full text-center text-gray-900">
           <p className="text-lg mb-8">
-            At <span className="font-bold text-[#5d0000]">A Builder Hut Box Fitness Gym</span> in Mahestala, we offer dynamic Yoga and high-energy Zumba sessions to help you achieve a balanced and healthy lifestyle.
+            At <span className="font-bold text-[#5d0000]">THE PANTHER GYM</span> in Mahestala, we offer dynamic Yoga and high-energy Zumba sessions to help you achieve a balanced and healthy lifestyle.
           </p>
           <p className="text-lg mb-12">
             Our certified instructors guide you through mindful Yoga sessions for flexibility and relaxation, while Zumba classes keep you energized with dance-inspired workouts. Join us to enhance your fitness in a fun and supportive environment.

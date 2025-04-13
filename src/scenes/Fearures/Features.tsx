@@ -34,10 +34,10 @@ const Features = () => {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 1 }}
         >
-          Welcome to A Builder Hut  Fitness Gym
+          Welcome to THE PANTHER GYM 
         </motion.h1>
         <p className="text-lg mb-8 text-gray-900 text-center max-w-4xl">
-          Your ultimate destination for holistic health and wellness, located in the heart of ! Step into our world where fitness goals are not just met but exceeded with state-of-the-art facilities, personalized training programs, and a community that inspires and motivates. Whether you’re a beginner or a seasoned athlete, A Builder Hut  Fitness Gym is committed to providing a top-notch fitness experience. Let’s get fit, let’s make it a big deal!
+          Your ultimate destination for holistic health and wellness, located in the heart of ! Step into our world where fitness goals are not just met but exceeded with state-of-the-art facilities, personalized training programs, and a community that inspires and motivates. Whether you’re a beginner or a seasoned athlete, THE PANTHER GYM  Fitness Gym is committed to providing a top-notch fitness experience. Let’s get fit, let’s make it a big deal!
         </p>
         
         <div className="max-w-7xl w-full grid md:grid-cols-3 gap-8 px-4">
@@ -54,7 +54,7 @@ const Features = () => {
         </div>
 
         <p className="text-lg mt-12 text-gray-900 text-center max-w-4xl">
-          Thank you for exploring A Builder Hut  Fitness Gym, where your fitness journey transforms into a lifestyle of health and vitality. Join our community today and take advantage of our special discount for the first 30 members. Because here at A Builder Hut , every workout is a step towards your best self. Stay fit, stay healthy, and keep making big deals out of your fitness goals!
+          Thank you for exploring THE PANTHER GYM  Fitness Gym, where your fitness journey transforms into a lifestyle of health and vitality. Join our community today and take advantage of our special discount for the first 30 members. Because here at THE PANTHER GYM , every workout is a step towards your best self. Stay fit, stay healthy, and keep making big deals out of your fitness goals!
         </p>
       </div>
     </section>

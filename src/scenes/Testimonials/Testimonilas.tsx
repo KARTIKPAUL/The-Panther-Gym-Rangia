@@ -4,20 +4,20 @@ import "slick-carousel/slick/slick-theme.css";
 
 const testimonials = [
   {
-    name: "Sanjana Pal",
-    feedback: "Best gym in our area and an excellent atmosphere and highly skilled trainers. The environment is clean, welcoming, and motivating, making every workout enjoyable. The trainers are knowledgeable and attentive, providing personalized guidance that really helps achieve fitness goals. Overall, it’s a great place to work out and stay fit.😊😊😊",
+    name: "Afshana Wahid",
+    feedback: "Gym is well maintained and clean.. trainers are very friendly & give good guidance 😊 equipment is top Notch.",
     image: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg?auto=compress&cs=tinysrgb&w=600",
     rating: 5,
   },
   {
-    name: "Ainesh Banerjee",
-    feedback: "This gym is a fantastic find .The trainer are incredibly friendly and knowledgeable always ready to offer guidance and support ,no matter your fitness level .The equipment is top notch,well maintained and offers a wide variety of all type workout .The atmosphere is positive and motivating ..",
-    image: "https://images.pexels.com/photos/4475024/pexels-photo-4475024.jpeg?auto=compress&cs=tinysrgb&w=600",
+    name: "Sabreena Afreen",
+    feedback: "Best gym in Rangia. Trainers are very cooperative and well behaved, boost confidence. Specially good for women.!",
+    image: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg?auto=compress&cs=tinysrgb&w=600",
     rating: 4,
   },
   {
-    name: "Supratik Mondal",
-    feedback: "Probably the best budget gym (if not the best) out there in Maheshtala+Budge Budge.. They offer premium experience at a reasonable cost with decent area for workout, helpful trainers, almost everything you can ask for. A positive environment, people support each other... Been working out since May, and I've had a good experience.",
+    name: "Ravikumar Paul",
+    feedback: "Very clean and accessible to all, but the fee is a bit high, if it can be reduced over all good👍👍👍💪🔥🔥",
     image: "https://images.pexels.com/photos/6260921/pexels-photo-6260921.jpeg?auto=compress&cs=tinysrgb&w=600",
     
     rating: 4,

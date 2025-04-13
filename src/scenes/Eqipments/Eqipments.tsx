@@ -18,7 +18,7 @@ const EquipmentPage = () => {
         
         <div className="max-w-5xl text-center text-gray-900">
           <p className="text-lg leading-relaxed mb-8">
-            At A Builder Hut  Fitness Gym, we take pride in elevating your workout experience with our range of international-level imported gym equipment. Each piece of machinery is selected with the utmost care from the finest global manufacturers, ensuring that our members have access to the latest and most effective tools for fitness.
+            At THE PANTHER GYM, we take pride in elevating your workout experience with our range of international-level imported gym equipment. Each piece of machinery is selected with the utmost care from the finest global manufacturers, ensuring that our members have access to the latest and most effective tools for fitness.
           </p>
           <p className="text-lg leading-relaxed mb-8">
             These state-of-the-art machines boast cutting-edge technology and ergonomic designs that not only enhance your performance but also ensure maximum safety and comfort during your training sessions. With our imported gym equipment, you can expect nothing less than a world-class workout environment that’s on par with elite fitness centers around the globe.

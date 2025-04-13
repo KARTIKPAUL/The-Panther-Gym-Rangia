@@ -6,6 +6,8 @@ import {
 
   
   FaFacebook,
+  FaInstagram,
+  FaYoutube,
 
 } from "react-icons/fa";
 
@@ -23,7 +25,7 @@ export default function FindUs() {
                 <FaPhoneAlt className="text-primary-500 text-2xl" />
                 <div>
                   <p className="text-[#5d0000] font-bold text-lg">
-                    <a href="tel:082769 03867">082769 03867</a>
+                    <a href="tel:070021 19989">070021 19989</a>
                   </p>
                   <p className="text-black">Call us: Mon - Fri 9:00 AM - 6:00 PM</p>
                 </div>
@@ -33,9 +35,9 @@ export default function FindUs() {
               <div className="flex items-center space-x-3">
                 <FaMapMarkerAlt className="text-primary-500 text-2xl" />
                 <div>
-                  <p className="text-lg font-bold text-[#5d0000]">A Builder Hut  Gym</p>
+                  <p className="text-lg font-bold text-[#5d0000]">THE PANTHER GYM</p>
                   <p className="text-black">
-                  budge budge trunk road, Kolkata, India, West Bengal
+                  Society Chowk, Rangia, India, Assam
                   </p>
                 </div>
               </div>
@@ -45,7 +47,7 @@ export default function FindUs() {
                 <FaEnvelope className="text-primary-500 text-2xl" />
                 <div>
                   <p className="text-lg font-bold text-[#5d0000]">
-                    <a href="mailto:abuilderhut22@gmail.com">abuilderhut22@gmail.com</a>
+                    <a href="mailto:biswakk365@gmail.com">biswakk365@gmail.com</a>
                   </p>
                   <p className="text-black">Drop us a line anytime!</p>
                 </div>
@@ -53,9 +55,18 @@ export default function FindUs() {
 
               {/* Social Icons */}
               <div className="flex space-x-4 mt-4 text-gray-500 text-2xl">
-                {/* <a href="https://www.facebook.com/thefitboxapd/" className="hover:text-yellow-500"><FaInstagram /></a> */}
-                <a href="https://www.facebook.com/builderhut22/" className="hover:text-[#2f2484]"><FaFacebook /></a>
-                {/* <a href="https://www.linkedin.com/company/vajjiram" className="hover:text-[#2f2484]"><FaLinkedin /></a> */}
+                <a href="https://www.instagram.com/the_panthergym/" className="hover:text-yellow-500" target="_blank" 
+                    rel="noopener noreferrer"><FaInstagram /></a>
+                <a href="https://www.facebook.com/p/The-Panther-Gym-100084687452995/" className="hover:text-[#2f2484]" target="_blank" 
+                    rel="noopener noreferrer"><FaFacebook /></a>
+                <a 
+                    href="https://www.youtube.com/@The_Panther_gym/" 
+                    className="hover:text-[#FF0000] ml-4" 
+                    target="_blank" 
+                    rel="noopener noreferrer"
+                  >
+                <FaYoutube />
+                  </a>
               </div>
             </div>
           </div>
